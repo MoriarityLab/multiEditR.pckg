@@ -19,6 +19,7 @@ Then, use devtools to install the multiEditR package:
 ```
 devtools::install_github("MoriarityLab/multiEditR.pckg")
 ```
+Please note that this may take a few mminutes to download.
 
 ## Basic functionality:
 
